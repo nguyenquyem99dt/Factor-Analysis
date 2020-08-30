@@ -1,2 +1,2 @@
 # FactorAnalysis
-Project of Multivariate Statistical Analysis - 2020 - HCMUS
+Project of Multivariate Statistical Analysis Course- 2020 - HCMUS
